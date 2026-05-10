@@ -23,4 +23,4 @@ To delete locally stored data (subscription status):
 
 ## Contact
 
-For any questions: oyasprime@gmail.com
+For any questions: omeryasirbagmanci@gmail.com
