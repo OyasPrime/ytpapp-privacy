@@ -28,4 +28,4 @@ Revoke access anytime: [Google Security Settings](https://myaccount.google.com/p
 
 ## 5. Contact
 
-**OYas Prime** — oyasprime@gmail.com
+**OYas Prime** — omeryasirbagmanci@gmail.com
