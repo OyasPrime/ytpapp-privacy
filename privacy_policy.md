@@ -126,3 +126,4 @@ For deletion requests or privacy questions, contact us at:
 
 **Developer:** OYas Prime  
 **Email:** omeryasirbagmanci@gmail.com
+
