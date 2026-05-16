@@ -1,26 +1,56 @@
-# Account Deletion — YT Playlist Sorter
+Account and Data Deletion — YT Playlist Sorter
 
-**Developer: OYas Prime**
+Developer: OYas Prime
+Contact: omeryasirbagmanci@gmail.com
 
-YT Playlist Sorter does not store any user accounts or personal data on our servers.
+YT Playlist Sorter does not operate its own backend server or database for user accounts.
 
-## How to Remove App Access
+The app uses Google / YouTube authorization to access playlists that you choose to manage. Some app settings and temporary session data may be stored locally on your device.
 
-To completely remove YT Playlist Sorter's access to your Google account:
+1. Remove Google / YouTube Access
 
-1. Go to [Google Account Permissions](https://myaccount.google.com/permissions)
-2. Find "YT Playlist Sorter" in the list
-3. Click on it and select "Remove Access"
+To revoke YT Playlist Sorter’s access to your Google account:
 
-This will immediately revoke all permissions and delete any cached data.
+1. Go to your Google Account permissions page.
+2. Find “YT Playlist Sorter”.
+3. Select the app.
+4. Choose “Remove Access”.
 
-## Local Data Deletion
+This will revoke the app’s permission to access your Google / YouTube data.
 
-To delete locally stored data (subscription status):
-1. Go to your Android Settings
-2. Find "YT Playlist Sorter"
-3. Tap "Clear Data"
+2. Delete Local App Data
 
-## Contact
+To delete locally stored app data on Android:
 
-For any questions: omeryasirbagmanci@gmail.com
+1. Open Android Settings.
+2. Go to Apps.
+3. Select “YT Playlist Sorter”.
+4. Tap Storage.
+5. Tap Clear Data.
+
+You can also uninstall the app to remove local app data from your device.
+
+3. Premium Subscription Data
+
+If you purchased Premium through Google Play, subscription management is handled by Google Play.
+
+To manage or cancel your subscription:
+
+1. Open Google Play Store.
+2. Tap your profile icon.
+3. Go to Payments & subscriptions.
+4. Select Subscriptions.
+5. Choose YT Playlist Sorter.
+
+4. Request Help
+
+If you need help with data deletion or account access removal, contact us at:
+
+omeryasirbagmanci@gmail.com
+
+Please include:
+- Your request type
+- Your app name: YT Playlist Sorter
+- The Google account email you used, if relevant
+
+We will respond as soon as possible.
